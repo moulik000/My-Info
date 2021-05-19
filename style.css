@@ -1,0 +1,54 @@
+header{
+    margin-top: 10px;
+    width: 300px;
+    background-color:slategray;
+    border-width: 10px;
+    border-style: solid;
+    border-color: orange;
+    margin-left: 500px;
+
+}
+body
+{
+    background-image: url(Background.jpg);
+    background-size: 100%;
+    background-attachment: scroll;
+    color: azure;
+    text-align:center;
+}
+main
+{
+    color: orange;
+    font-size: 30px;
+    border-width: 10px;
+    margin-left: 50px;    
+}
+img
+{
+    float: right;
+    margin-right: 25px;
+}
+th{
+    padding-left: 250px;
+}
+
+footer{
+    text-align: center;
+    font-size: 25px;
+    background-color:gray;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+}
+.columns{
+    display: flex;
+    margin: 10px 0 ;
+    border-width: 10px;
+    border-style: solid;
+    border-color: orange;
+    text-align: center;
+}
+
+.Images{
+    float: left;
+}
